@@ -9,4 +9,7 @@ public class javaTest {
         i=i+1;
         System.out.println(i);
     }
+    public void test(){
+        System.out.println("add github！you  have frist github！");
+    }
 }
